@@ -190,14 +190,4 @@ Developed scalable automation frameworks using Ansible and Terraform for cloud p
 ✔ Enterprise Infrastructure
 ```
 
-# 🤝 Connect With Me
 
-<div align="center">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0A66C2&style=flat" />
-</p>
-
-### Building Scalable Cloud & DevOps Solutions
-
-</div>
