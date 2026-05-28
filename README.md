@@ -14,10 +14,6 @@
 
 </div>
 
----
-
-# 📬 Contact Me
-
 <p align="center">
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
